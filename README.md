@@ -1,4 +1,4 @@
-# Engieering Thesis
+# Engineering Thesis
 Reinforcement Learning Algorithms in Elevator Control Optimization
 
 ----
